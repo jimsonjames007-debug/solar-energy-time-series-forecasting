@@ -1,5 +1,6 @@
 # Solar Energy Time Series Forecasting
-
+open code in google colab: 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fmJkz4sJHLfqAjP4M8zJ_wL15Mdox2x2?usp=sharing)
 ## Overview
 This project applies time series regression techniques to forecast solar energy production using historical weather and energy data recorded at 15-minute intervals between 2017 and 2022.
 
